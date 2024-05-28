@@ -1,0 +1,1 @@
+export const Difficulty=["Low","Medium","High"]
